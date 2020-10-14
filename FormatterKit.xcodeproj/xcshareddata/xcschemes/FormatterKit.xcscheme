@@ -16,7 +16,7 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "5B08B6681CA69F99009541EC"
                BuildableName = "FormatterKit.framework"
-               BlueprintName = "FormatterKit-iOS"
+               BlueprintName = "FormatterKit"
                ReferencedContainer = "container:FormatterKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,8 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </TestAction>
    <LaunchAction
       buildConfiguration = "Debug"
@@ -47,12 +45,10 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5B08B6681CA69F99009541EC"
             BuildableName = "FormatterKit.framework"
-            BlueprintName = "FormatterKit-iOS"
+            BlueprintName = "FormatterKit"
             ReferencedContainer = "container:FormatterKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
-      <AdditionalOptions>
-      </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -65,7 +61,7 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "5B08B6681CA69F99009541EC"
             BuildableName = "FormatterKit.framework"
-            BlueprintName = "FormatterKit-iOS"
+            BlueprintName = "FormatterKit"
             ReferencedContainer = "container:FormatterKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
